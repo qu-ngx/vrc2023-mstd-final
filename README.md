@@ -15,8 +15,8 @@
 </p>
 
 **Credits:**
-+ Code by [@Faifh](https://github.com/Faifh)
-+ Mentorship provided by [@Faifh](https://github.com/Faifh)
++ Code by [@ZekeGenk](https://github.com/ZekeGenk)
++ Mentorship provided by [@ZekeGenk](https://github.com/ZekeGenk)
 + Code supporter: [@MuffinHavlop](https://github.com/MuffinHavlop) 
 
 <p align="center">
