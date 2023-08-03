@@ -15,8 +15,8 @@
 </p>
 
 **Credits:**
-+ Code by [@ZekeGenk](https://github.com/ZekeGenk)
-+ Mentorship provided by [@ZekeGenk](https://github.com/ZekeGenk)
++ Code by [@qu-ngx](https://github.com/qu-ngx)
++ Mentorship provided by [@qu-ngx](https://github.com/qu-ngx)
 + Code supporter: [@MuffinHavlop](https://github.com/MuffinHavlop) 
 
 <p align="center">
